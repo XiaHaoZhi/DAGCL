@@ -1,1 +1,1 @@
-DAGCL: Diversified Recommendation with Graph-Augmented Contrastive Learning
+DAGCL: Diversified Recommendation with Graph-Augmented Contrastive Learning.
